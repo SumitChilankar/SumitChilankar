@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitChilankar
 - 👀 I’m interested in hacking 
 - 🌱 I’m currently learning linux, ethical hacking
-- 💞️ I’m looking to collaborate on ...
+- 💞
 - 📫 
 
 <!---
