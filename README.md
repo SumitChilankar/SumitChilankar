@@ -72,8 +72,6 @@ Currently working as an **L2 Network Engineer** and expanding into **Cloud & Dev
 
 ![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitChilankar&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitChilankar&layout=compact&theme=radical)  
-
 ---
 
 ## 🏆 GitHub Trophies  
