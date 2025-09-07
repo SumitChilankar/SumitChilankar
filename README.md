@@ -3,7 +3,11 @@
 🚀 **Network Engineer | Cloud Enthusiast | DevOps Learner**  
 
 I'm passionate about designing, securing, and automating **Networking, Cloud, and DevOps** solutions.  
-Currently working as an **L2 Network Engineer** and expanding into **Cloud & DevOps** to build scalable, secure, and automated infrastructures.  
+Currently working as an **L2 Network Engineer** and expanding into **Cloud & DevOps** to build scalable, secure, and automated infrastructures. 
+🔭 Currently working on cloud-native solutions, Artificial Intelligence solutions and DevOps engineering
+🌱 Always learning about emerging technologies and best practices
+👯 Looking to collaborate on open-source projects and DevOps initiatives
+💬 Ask me about Python, Cloud Architecture, DevOps, and Networking Engineering
 
 ---
 
@@ -15,22 +19,54 @@ Currently working as an **L2 Network Engineer** and expanding into **Cloud & Dev
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🔹 Networking  
-<img src="https://img.shields.io/badge/Cisco-Routing%20%26%20Switching-blue?logo=cisco&logoColor=white">  
-<img src="https://img.shields.io/badge/Fortinet-Firewall-red?logo=fortinet&logoColor=white">  
-<img src="https://img.shields.io/badge/MPLS-SDWAN-orange?logo=network&logoColor=white">  
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
 
-### 🔹 Cloud & DevOps  
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white">  
-<img src="https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform&logoColor=white">  
-<img src="https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white">  
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes&logoColor=white">  
-<img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&logoColor=white">  
-<img src="https://img.shields.io/badge/Linux-System%20Admin-green?logo=linux&logoColor=white">  
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
+
+### **Databases & Monitoring**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+</p>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LondheShubham153&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondheShubham153&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondheShubham153&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
+
+---
+
 
 ## 📊 GitHub Stats  
 
@@ -45,10 +81,18 @@ Currently working as an **L2 Network Engineer** and expanding into **Cloud & Dev
 
 ---
 
-## 🔗 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumitchilankar)  
-- 📝 [Portfolio / Blog - (if you create one)](https://yourwebsite.com)  
-- 📧 sumitchilankar@example.com  
+## 🌐 Connect With Me 
+
+<div align="center"> 
+
+[![Website]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitchilankar/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sumit_chilankar_/)
+[![Email](https://img.shields.io/badge/Email-sumitchilankar96@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitchilankar@gmail.com)
+
+</div> 
+
+--- 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SumitChilankar&color=blue)
