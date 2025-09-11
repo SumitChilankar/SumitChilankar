@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sumit Chilankar  
 
-🚀 **Network Engineer | Cloud Enthusiast | DevOps Learner**  
+🚀 **Cloud Enthusiast | DevOps Learner**  
 
 I'm passionate about designing, securing, and automating **Networking, Cloud, and DevOps** solutions.  
 Currently working as an **L2 Network Engineer** and expanding into **Cloud & DevOps** to build scalable, secure, and automated infrastructures. 
